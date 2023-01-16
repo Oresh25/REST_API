@@ -93,17 +93,10 @@ def create_app(db_url=None):
             ),
             401,
         )
-
-# Check if to delete
-    # with app.app_context():
-    #     db.create_all()
-
+        
     api.register_blueprint(ItemBlueprint)
     api.register_blueprint(StoreBlueprint)
     api.register_blueprint(TagBlueprint)
     api.register_blueprint(UserBlueprint)
 
     return app
-
-
-    
