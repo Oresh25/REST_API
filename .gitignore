@@ -1,6 +1,5 @@
 .py
 __pycache__
 .vscode
-data.db
 *pyc
 .DS_Stores
