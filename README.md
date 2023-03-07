@@ -27,3 +27,15 @@ Users can do the following:
 - [x] Checkout & cart summary (a user must be logged in)
 - [x] Buy products (a user must be logged in)
 - [x] View user's orders (a user must be logged in)
+
+
+## 📌Features
+- [x] Auth:  token for reset password, verification email, verification password
+- [x] Send an email with Nodemailer and Handlebars
+- [x] Full featured shopping cart - add, remove, update
+- [x] Full featured wishlist - add, remove
+- [x] Products pagination
+- [x] User profile with orders, address, login details
+- [x] Checkout process - moving cart to an order
+- [x] Filter products by category
+- [x] Save user's session with express-session
