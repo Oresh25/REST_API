@@ -13,7 +13,7 @@ This API is for create stores and their item inventories. Registred user can add
 ## 📌Features
 <br>
 Users can do the following:
-- [x] Login
+- [x] Login <br>
 - [x] Create an account
 - [x] User authentication
 - [x] Set up a store and add items   
