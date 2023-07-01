@@ -1,6 +1,6 @@
 # REST APIs Project Store Item
 
-This API is for create stores and their item inventories. Registred user can add, delete, or update stores, items and their tags. Non-registered users whuld no have any authorization.
+This API is for create stores and their item inventories and manage the stores and thier inventory. Registred user can add, delete, or update stores, items and their tags. Non-registered users whuld no have any authorization.
 
 ## 💻Technologies
 - [Python](https://www.python.org/ "Python")
